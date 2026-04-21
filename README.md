@@ -62,10 +62,10 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/guri5405/todo.git
+https://github.com/guri5405/06contextApi.git
 
 # Navigate to project folder
-cd todo
+cd 06contextApi
 
 # Install dependencies
 npm install
